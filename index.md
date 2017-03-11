@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
-
+## CHEN BO YAN
+   陈博言
+   School:Shandong university
+   Department:Computer Science And Technology
+   Focus on:information security
+   
+   Hobby:soccer,listening to music,reading
+   
+   
 You can use the [editor on GitHub](https://github.com/cby1996/cby1996cg.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My view towards computer graphics
+This is my home page of the Computer Graphics(CG) and this is also the first assignment.There are 
 
 ### Markdown
 
