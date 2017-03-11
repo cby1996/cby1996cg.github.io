@@ -10,6 +10,7 @@
    
    Hobby:soccer,listening to music,reading
    
+   Mail: 1070305323@qq.com 
    
 You can use the [editor on GitHub](https://github.com/cby1996/cby1996cg.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -21,8 +22,9 @@ The unprecedented development broden the field of CG,VR and AR set up a new appr
 
 ### Links
 
-SDU IRC: http://irc.cs.sdu.edu.cn/
-Home page of CG course: http://www.cs.sdu.edu.cn/~baoquan/course/S17_CG.html
+SDU IRC:  http://irc.cs.sdu.edu.cn/
+
+Home page of CG course:  http://www.cs.sdu.edu.cn/~baoquan/course/S17_CG.html
 
 ### Jekyll Themes
 
