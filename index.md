@@ -1,7 +1,11 @@
 ## CHEN BO YAN
-   陈博言
+   
+   陈博言
+   
    School:Shandong university
+   
    Department:Computer Science And Technology
+   
    Focus on:information security
    
    Hobby:soccer,listening to music,reading
