@@ -15,31 +15,14 @@ You can use the [editor on GitHub](https://github.com/cby1996/cby1996cg.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### My view towards computer graphics
-This is my home page of the Computer Graphics(CG) and this is also the first assignment.There are 
+   This is my home page of the Computer Graphics(CG) and this is also the first assignment.Important topics in computer graphics include user interface design, sprite graphics, vector graphics, 3D modeling, shaders, GPU design, implicit surface visualization with ray tracing, and computer vision, among others. The overall methodology depends heavily on the underlying sciences of geometry, optics, and physics.
 
-### Markdown
+The unprecedented development broden the field of CG,VR and AR set up a new approach to information, and screens became thinner and cheaper, put into pockets and in every corner. Cameras are embedded into mobile phones, cars and glasses, supporting video capture and even direct 3D modeling. Moreover, the performance of the video cards have been growing rapidly, cards catering for the calculation of more complex effects.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Links
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+SDU IRC: http://irc.cs.sdu.edu.cn/
+Home page of CG course: http://www.cs.sdu.edu.cn/~baoquan/course/S17_CG.html
 
 ### Jekyll Themes
 
