@@ -2,7 +2,7 @@
    
    陈博言
   
-   ![photo](../master/photo2.jpg)
+   ![photo](photo2.jpg)
    
    Student number：201405301322
    
