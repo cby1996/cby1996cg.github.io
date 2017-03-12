@@ -2,7 +2,7 @@
    
    陈博言
    
-   ![photo](https://github.com/cby1996/cby1996cg.github.io/blob/master/photo1.jpg)
+   ![photo](https://github.com/cby1996/cby1996cg.github.io/blob/master/photo2.jpg)
    
    Student number：201405301322
    
