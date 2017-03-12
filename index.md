@@ -1,7 +1,7 @@
 ## CHEN BO YAN
    
    陈博言
-   
+   <img src="(https://github.com/cby1996/cby1996cg.github.io/blob/master/photo2.jpg"  alt="chenboyan" />
    ![photo](https://github.com/cby1996/cby1996cg.github.io/blob/master/photo2.jpg)
    
    Student number：201405301322
