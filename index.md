@@ -2,7 +2,7 @@
    
    陈博言
    
-   ![photo](https://github.com/cby1996/cby1996cg.github.io/blob/master/IMG_20170226_134502.jpg)
+   ![photo](https://github.com/cby1996/cby1996cg.github.io/blob/master/photo.jpg)
    
    School:Shandong university
    
