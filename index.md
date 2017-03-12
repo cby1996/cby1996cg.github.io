@@ -4,6 +4,8 @@
    
    ![photo](https://github.com/cby1996/cby1996cg.github.io/blob/master/photo.jpg)
    
+   Student number：201405301322
+   
    School:Shandong university
    
    Department:Computer Science And Technology
