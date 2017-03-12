@@ -23,7 +23,7 @@ you may use your creativity in this course.
    The unprecedented development broden the field of CG,VR and AR set up a new approach to information, and screens became thinner and cheaper, put into pockets and in every corner. Cameras are embedded into mobile phones, cars and glasses, supporting video capture and even direct 3D modeling. Moreover, the performance of the video cards have been growing rapidly, cards catering for the calculation of more complex effects.
 
 ### Links
-This is [SDU IRC] (http://irc.cs.sdu.edu.cn) inline link
+This is [SDU IRC](http://irc.cs.sdu.edu.cn) 
 
-This is [Home page of CG course] ( http://www.cs.sdu.edu.cn/~baoquan/course/S17_CG.html) inline link
+This is [Home page of CG course]( http://www.cs.sdu.edu.cn/~baoquan/course/S17_CG.html)
 
