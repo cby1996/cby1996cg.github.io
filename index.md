@@ -32,6 +32,6 @@ This is [SDU IRC](http://irc.cs.sdu.edu.cn)
 
 This is [Home page of CG course]( http://www.cs.sdu.edu.cn/~baoquan/course/S17_CG.html)
 
-This is my rencent work of bcp cryptosystem,this is  an Additively Homomorphic Encryption which different from traditional Paillier Homomorphic.It has two mechanisms of decryption.The most important issue is that there is no other codes in github and only one in other website using C++ with poor performance and only one way of decryption.It is writen by myself and the copyright is reserved by cby [my bcp cryptosystem]( https://github.com/cby1996/robot-animation)
+This is my rencent work of bcp cryptosystem,this is  an Additively Homomorphic Encryption which different from traditional Paillier Homomorphic.It has two mechanisms of decryption.The most important issue is that there is no other codes in github and only one in other website using C++ with poor performance and only one way of decryption.It is writen by myself and the copyright is reserved by cby [my bcp cryptosystem]( https://github.com/cby1996/bcp-homomophic-encryption)
 ### Project
-This is my projet2[robot animation](https://github.com/cby1996/bcp-homomophic-encryption)
+This is my projet2[robot animation](https://github.com/cby1996/robot-animation)
