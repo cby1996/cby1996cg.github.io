@@ -40,4 +40,4 @@ This is my rencent work of bcp cryptosystem,this is  an Additively Homomorphic E
 ### Project
 This is my projet2                 [robot animation](https://github.com/cby1996/robot-animation)
 
-And you can see the [video](http://www.tudou.com) of my project from Todou
+And you can see the [video](http://www.tudou.com/) of my project from Todou
