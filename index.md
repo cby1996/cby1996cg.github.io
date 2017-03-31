@@ -39,3 +39,4 @@ Something interesting:[Top meeting of CG](http://www.siggraph.org/)
 This is my rencent work of bcp cryptosystem,this is  an Additively Homomorphic Encryption which differs from traditional Paillier Homomorphic.It has two mechanisms of decryption.The most important issue is that there is no other codes in github and only one in other website using C++ with poor performance and only one way of decryption.It is writen by myself and the copyright is reserved by cby         [my bcp cryptosystem]( https://github.com/cby1996/bcp-homomophic-encryption)
 ### Project
 This is my projet2                 [robot animation](https://github.com/cby1996/robot-animation)
+And you can see the [video](http://www.tudou.com) of my project from Todou
