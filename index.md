@@ -41,3 +41,5 @@ This is my rencent work of bcp cryptosystem,this is  an Additively Homomorphic E
 This is my projet2 [robot animation](https://github.com/cby1996/robot-animation) It is not very difficult so I finish and submit the project on 24/3 2017
 
 And you can see the [video](http://video.tudou.com/v/XMjY3OTA1MTYyMA==) of my project from Todou
+
+This is the document to explain how the code works[report](https://github.com/cby1996/robot-animation/tree/master)
