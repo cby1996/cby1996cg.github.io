@@ -46,6 +46,6 @@ This is the document to explain how the code works [report](https://github.com/c
 
 This is my project3[robot animation using shading model],it is based on my project2.
 
-And you can see the [video] of my project3.
+And you can see the [video](http://video.tudou.com/v/XMjcxODMyODc4OA==.html?from=s1.8-1-1.2&spm=a2h0k.8191414.0.0) of my project3.
 
 This is the document to explain how the code works [report]
