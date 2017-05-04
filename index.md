@@ -44,7 +44,7 @@ And you can see the [video](http://video.tudou.com/v/XMjY3OTA1MTYyMA==) of my pr
 
 This is the document to explain how the code works [report](https://github.com/cby1996/robot-animation/tree/master)
 
-This is my project3[robot animation using shading model](https://github.com/cby1996/CG_project3),it is based on my project2.
+This is my project3 [robot animation using shading model](https://github.com/cby1996/CG_project3),it is based on my project2.
 
 And you can see the [video](http://video.tudou.com/v/XMjcxODMyODc4OA==.html?from=s1.8-1-1.2&spm=a2h0k.8191414.0.0) of my project3.
 
