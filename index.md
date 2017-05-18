@@ -44,9 +44,11 @@ This is my projet2 [robot animation](https://github.com/cby1996/robot-animation)
 And you can see the [video](http://video.tudou.com/v/XMjY3OTA1MTYyMA==) of my project2 from Todou
 
 This is the document to explain how the code works [report](https://github.com/cby1996/robot-animation/tree/master)
+
+![photo](2.gif)
 ### Assignment 3
 This is my project3 [robot animation using shading model](https://github.com/cby1996/CG_project3),it is based on my project2.
-![photo](2.gif)
+
 And you can see the [video](http://video.tudou.com/v/XMjcxODMyODc4OA==.html?from=s1.8-1-1.2&spm=a2h0k.8191414.0.0) of my project3.
 
 This is the document to explain how the code works [report](https://github.com/cby1996/CG_project3/blob/master/README.md).
