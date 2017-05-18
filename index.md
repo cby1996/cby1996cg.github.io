@@ -55,3 +55,5 @@ This is the document to explain how the code works [report](https://github.com/c
 ### Assignment 4
 This is my project4 [Interractive scene using texture mapping]((https://github.com/cby1996/Texture_mapping),it is based on texture mapping in OpenGL to dipict an interactive scene.
  ![photo](图片1.gif)
+ 
+ ![photo](cr7.gif)
