@@ -19,7 +19,6 @@
    
    Mail: 1070305323@qq.com 
    
- [editor on GitHub](https://github.com/cby1996/cby1996cg.github.io/edit/master/index.md) 
 
 ### My view towards computer graphics
    This is my home page of the Computer Graphics(CG) and this is also the first assignment.Important topics in computer graphics include user interface design, sprite graphics, vector graphics, 3D modeling, shaders, GPU design, implicit surface visualization with ray tracing, and computer vision, among others. The overall methodology depends heavily on the underlying sciences of geometry, optics, and physics.So
@@ -57,3 +56,5 @@ This is my project4 [Interractive scene using texture mapping]((https://github.c
  ![photo](图片1.gif)
  In this scene,you can view from different angle and can change texture.
  ![photo](cr7.gif)
+ you can see the demo [video](http://video.tudou.com/v/XMjc3ODYxNTg5Mg==.html?spm=a2h28.8313469.con1.dimg1)of this prohect.
+ [edit](https://github.com/cby1996/cby1996cg.github.io/edit/master/index.md) 
