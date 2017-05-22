@@ -56,5 +56,7 @@ This is my project4 [Interractive scene using texture mapping]((https://github.c
  ![photo](图片1.gif)
  In this scene,you can view from different angle and can change texture.
  ![photo](cr7.gif)
- you can see the demo [video](http://video.tudou.com/v/XMjc3ODYxNTg5Mg==.html?spm=a2h28.8313469.con1.dimg1)of this prohect.
+ you can see the demo [video](http://video.tudou.com/v/XMjc3ODYxNTg5Mg==.html?spm=a2h28.8313469.con1.dimg1) of this prohect.
+ 
+ 
  [edit](https://github.com/cby1996/cby1996cg.github.io/edit/master/index.md) 
