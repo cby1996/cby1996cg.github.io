@@ -51,7 +51,7 @@ And you can see the [video](http://video.tudou.com/v/XMjcxODMyODc4OA==.html?from
 
 This is the document to explain how the code works [report](https://github.com/cby1996/CG_project3/blob/master/README.md).
 ### Assignment 4
-This is my project4 [Interractive scene using texture mapping]((https://github.com/cby1996/Texture_mapping),it is based on texture mapping in OpenGL to dipict an interactive scene.
+This is my project4 [Interractive scene using texture mapping](https://github.com/cby1996/Texture_mapping),it is based on texture mapping in OpenGL to dipict an interactive scene.
  ![photo](图片1.gif)
  
  In this scene,you can view from different angle and can change texture.
