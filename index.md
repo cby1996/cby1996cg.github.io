@@ -91,7 +91,7 @@ To contrast with OpenGl,I put the same scene in the same picture,as you can see:
 
 one issue I have to make up for is that I did not implement antialiasing,so the edge of object have sawtooth.
 ### Change Parameter 
-The parameters are set in the command line,you can set the recursive depth,this means how many refractions and reflactions that should be computed,in scene 4,change the parameter from 0-4,the results are showed as followed:
+The parameters are set in the command line,you can set the recursive depth,this means how many refractions and reflactions that should be computed,in scene 4,change the parameter from 0-3,the results are showed as followed:
 ### 0
 ![photo](0.png)
 ### 1
