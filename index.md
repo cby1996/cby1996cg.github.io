@@ -78,3 +78,13 @@ This is my project4 [Interractive scene using texture mapping](https://github.co
 I also implement an OpenGL viewer,but no shadow and refraction effect,such as:
 
 ![photo](opengl场景.png)
+### Compare with OpenGL
+To contrast with OpenGl,I put the same scene in the same picture,as you can see:
+### scene 1
+![photo](5对比图.png)
+### scene 2
+![photo](1对比图.png)
+### scene 3
+![photo](2对比图.png)
+### scene 4
+![photo](3对比图.png)
