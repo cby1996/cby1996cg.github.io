@@ -64,4 +64,13 @@ This is my project4 [Interractive scene using texture mapping](https://github.co
  [edit](https://github.com/cby1996/cby1996cg.github.io/edit/master/index.md) 
 ### Final Project
  This is my final project,I totaly implement reflection,shadow and refraction effect independently.The input is .txt  format,and out put is .tga format,I use a parser to comple the specific .txt file and output as a picture,the pictures are showed as followed:
- 
+### scene 1
+![photo](1.png)
+### scene 2
+![photo](2.png)
+### scene 3
+![photo](3.png)
+### scene 4
+![photo](4.png)
+### scene 5
+![photo](5.png)
