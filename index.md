@@ -88,3 +88,5 @@ To contrast with OpenGl,I put the same scene in the same picture,as you can see:
 ![photo](4对比图.png)
 ### scene 4
 ![photo](2对比图.png)
+
+one issue I have to make up for is that I did not implement
