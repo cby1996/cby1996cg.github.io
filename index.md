@@ -71,6 +71,6 @@ This is my project4 [Interractive scene using texture mapping](https://github.co
 ### scene 3
 ![photo](3.png)
 ### scene 4
-![photo](4.png)
+![photo](3——4.png)
 ### scene 5
 ![photo](5.png)
